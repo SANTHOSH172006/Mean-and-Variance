@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 # Name : SANTHOSH D
 # Reg No : 212223220099
-# Date : 29/04/2025
+# Date : 05/05/2025
 
 # Aim : 
 
